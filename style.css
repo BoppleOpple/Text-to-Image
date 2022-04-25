@@ -10,4 +10,6 @@ input {
   font-family: Arial, Helvetica, sans-serif;
   width: min-content;
   height: min-content;
+  white-space: nowrap;
+  overflow: scroll;
 }
